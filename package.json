@@ -1,0 +1,23 @@
+{
+  "name": "cmd-amd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongrenguang/cmd-amd.git"
+  },
+  "author": "Renguang Dong <dongrenguang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongrenguang/cmd-amd/issues"
+  },
+  "homepage": "https://github.com/dongrenguang/cmd-amd#readme",
+  "dependencies": {
+    "anywhere": "^1.2.0"
+  }
+}
